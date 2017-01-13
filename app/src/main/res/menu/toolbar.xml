@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/back"
+        android:title="返回"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete"
+        android:title="删除"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting"
+        android:title="设置"
+        app:showAsAction="never"/>
+</menu>
