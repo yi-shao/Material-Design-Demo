@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/下拉框" />
+            <option value="$PROJECT_DIR$/自定义开关" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
